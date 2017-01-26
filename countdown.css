@@ -1,0 +1,49 @@
+/*
+	style.css
+	---------
+
+	par Sébastien V.
+*/
+
+/* 
+	mise en forme du countdown pour une banière loto
+	a adapter selon le contenu et les dimensions de l'image cible
+*/
+#compteur_loto {
+	color: white;
+	font-family: "Arial Narrow";
+	font-style: normal;
+
+	padding-right: 25px;
+	padding-left: 25px;
+
+	position:absolute;
+	top:150px; 
+
+	width:650px; 
+	height:100px; 
+
+	z-index: 2;
+	font-size: 170%;
+	font-weight: bold;
+
+}
+
+
+#compteur_euml {
+	color: white;
+	font-family: "Arial";
+	font-style: normal;
+
+	padding-right: 25px;
+	padding-left: 25px;
+
+	position:absolute;
+	top:50px; 
+	left: 350px;
+
+	z-index: 2;
+	font-size: 160%;
+	font-weight: bold;
+
+}

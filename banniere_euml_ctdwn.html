@@ -1,0 +1,34 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+    <head>
+        <title>test countdown banière</title>
+        <meta http-equiv="Content-Language" content="fr" />
+        <meta charset="UTF-8">
+        <style type="text/css"></style>
+        <link rel="stylesheet" href="countdown.css"></link>        
+    </head>
+
+    <body>
+        
+        <script type="text/javascript" src="ressources/js/countdown.js"></script>  
+
+        <div style="position:relative; height:199px">
+            <div style=" background-color: navy; width:1000px; height:100px; padding: 20px; position:absolute; z-index:1">
+                <a href="https://www.fdj.fr/jeux/jeux-de-tirage/euromillions/"><img src='ressources/img/logo-diamond.svg' alt="jouez à euromillions..." title="Jouez à Euromillions !!!"></a>
+            </div>
+            <div id='compteur_euml'></div> 
+        </div>
+
+        <script language="JavaScript">
+            duree=getDuree('euml');
+            countdown('compteur_euml');
+        </script>
+
+    </body>
+
+</html>
+
+

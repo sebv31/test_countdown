@@ -1,0 +1,294 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"test",
+				"testlink"
+			],
+			[
+				"cible",
+				"cibleText"
+			],
+			[
+				"idIn",
+				"idInfoZone"
+			],
+			[
+				"id",
+				"idInfoZone"
+			],
+			[
+				"div",
+				"div-info"
+			],
+			[
+				"tex",
+				"text-decoration-line"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"text-col",
+				"text-decoration-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"border-s",
+				"border-right-style"
+			],
+			[
+				"length",
+				"length"
+			],
+			[
+				"len",
+				"lenght-1"
+			],
+			[
+				"s",
+				"substring"
+			],
+			[
+				"mav",
+				"mavariable2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Satisfy Dependencies"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 186.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/U720382/Documents/06.perso/Travail/countdown",
+		"/C/Users/U720382/Documents/06.perso/Travail/countdown/ressources",
+		"/C/Users/U720382/Documents/06.perso/Travail/countdown/ressources/js"
+	],
+	"file_history":
+	[
+		"/C/Users/U720382/Documents/06.perso/Travail/countdown/countdown.css",
+		"/C/Users/U720382/Documents/06.perso/Travail/countdown/banniere_euml_ctdwn.html",
+		"/C/Users/U720382/Documents/06.perso/Travail/countdown/ressources/js/countdown.js",
+		"/C/Users/U720382/Documents/06.perso/Travail/countdown/banniere_loto_mock.html",
+		"/C/Users/U720382/Documents/06.perso/Travail/countdown/banniere_loto_ctdwn.html",
+		"/C/Users/U720382/Documents/06.perso/Travail/project.tests1.sublime-project",
+		"/C/Users/U720382/Documents/06.perso/Travail/tests1/countdown.html",
+		"/C/Users/U720382/Documents/01.travail/05.tools/sublime text v3/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/U720382/Documents/01.travail/05.tools/sublime text v3/Data/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/U720382/Documents/01.travail/05.tools/sublime text v3/Packages/Default/Default.sublime-theme",
+		"/C/Users/U720382/Documents/01.travail/05.tools/sublime text v3/Packages/Default/Widget.sublime-settings",
+		"/C/Users/U720382/Documents/01.travail/05.tools/sublime text v3/Packages/Default/side_bar.py",
+		"/C/Users/U720382/Documents/01.travail/05.tools/sublime text v3/Packages/Default/Side Bar.sublime-menu",
+		"/C/Users/U720382/Documents/01.travail/05.tools/sublime text v3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/U720382/Documents/01.travail/05.tools/sublime text v3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/U720382/Documents/01.travail/05.tools/sublime text v3/Packages/Default/Preferences (Windows).sublime-settings",
+		"/C/Users/U720382/Documents/01.travail/05.tools/sublime text v3/Packages/Theme - Default.sublime-package",
+		"/C/Users/U720382/Documents/01.travail/05.tools/sublime text v3/Packages/Default.sublime-package",
+		"/C/Users/U720382/Documents/06.perso/Travail/test-master/testsite/style.css",
+		"/C/Users/U720382/Documents/06.perso/Travail/test-master/testsite/ressources/js/utils.js",
+		"/C/Users/U720382/Documents/06.perso/Travail/test-master/testsite/pages/testsite_number2text.html",
+		"/C/Users/U720382/Documents/06.perso/Travail/test-master/testsite/index.html",
+		"/C/Users/U720382/Documents/06.perso/Travail/testsite/style.css",
+		"/C/Users/U720382/Documents/06.perso/Travail/testsite/ressources/js/utils.js",
+		"/C/Users/U720382/Documents/06.perso/Travail/testsite/index.html",
+		"/C/Users/U720382/Documents/06.perso/Travail/testsite/pages/testsite_number2text.html",
+		"/C/Users/U720382/Documents/06.perso/Travail/testsite/index.html.bak",
+		"/C/Users/U720382/Documents/06.perso/Travail/hello.html",
+		"/C/Users/U720382/Documents/06.perso/Travail/utils.js",
+		"/C/Users/U720382/Documents/06.perso/Travail/compare.js",
+		"/C/Users/U720382/Documents/06.perso/Travail/test_objets.js",
+		"/C/Users/U720382/Documents/06.perso/Travail/tc_test.js",
+		"/C/Users/U720382/Documents/06.perso/Travail/essai.js",
+		"/C/Users/U720382/Desktop/test.json",
+		"/C/Users/U720382/Documents/01.travail/05.tools/sublime text v3/Packages/Color Scheme - Default.sublime-package",
+		"/C/Users/U720382/Documents/01.travail/05.tools/sublime text v3/Data/Cache/Color Scheme - Default/Monokai.tmTheme.cache",
+		"/C/Users/U720382/Desktop/wof.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sidebar",
+			"mydivs",
+			"byid",
+			"div-piedpage",
+			"div-result",
+			"div-newinput",
+			"div-info",
+			"div-intro",
+			".field-casual",
+			"countislands",
+			"newisland",
+			"abtest",
+			"nbiles",
+			"aubertel"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"myElmts",
+			"footer",
+			"result",
+			"newinput",
+			"zoneinfo",
+			"entete",
+			"count_items",
+			"newitem",
+			"countislands"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "countdown.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
